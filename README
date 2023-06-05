@@ -1,4 +1,1 @@
-Names: Isaac Monheit (imonhe01) and Kabir Pamnani (kpamna01)
-Help Received: Many many TAS!!!
-Implemented: Everything
-Hours: 25 
+Two programs were implemented in this project: 1) A program that identifies whether an inputted pgm file represents a solved sudoku puzzle 2) A program that removes blackedges from a scanned image. Created as a part of my CS40: Machine Structure and Assembly Language course.
